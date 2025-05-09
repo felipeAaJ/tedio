@@ -1,1 +1,1 @@
-fiz um sistema simples de compra e venda , com opcoes de parcelemante com adicional de juros e a vista com desconto, 
+fiz um sistema simples de compra e venda com opcoes de parcelemante com adicional de juros e a vista com desconto. queria ajuda para fazer uma verificaçao no codigo ,uma verificaçao na parte do carro, queria deixar apenas string, e caso ele digite numero ou letra, saia do sistema e volte para as opcoes 
