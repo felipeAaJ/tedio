@@ -1,0 +1,1 @@
+fiz um sistema simples de compra e venda , com opcoes de parcelemante com adicional de juros e a vista com desconto, 
